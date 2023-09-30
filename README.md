@@ -3,7 +3,7 @@
 The Responsive Music Player is a lightweight and user-friendly web application that seamlessly works across various devices. 
 This project was created using HTML, CSS, and JavaScript to provide a responsive and feature-rich music listening experience.
 
-🪶 Features
+🪶 Features:
 
 🔸Play and Control: Easily play, pause, and skip through tracks with intuitive buttons.
 🔸Track Seek: Seek through songs using the progress slider to find your favorite parts.
@@ -13,3 +13,11 @@ This project was created using HTML, CSS, and JavaScript to provide a responsive
 🔸Repeat Mode: Enable repeat mode to loop your favorite songs.
 🔸Playlist: You can scroll and select songs using playlist bottom drawer. 
 
+🧿 Functions:
+
+•Random Song
+•Previous Song
+•Next Song
+•Repeat Song
+•Playlist Song
+•Autoplay
